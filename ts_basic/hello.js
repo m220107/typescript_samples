@@ -3,3 +3,7 @@
 var message = "Hello!!!!!";
 console.log(message);
 // 実行したいときはts-node hello　で実行できる
+
+// グローバルインストールしたものは以下の場所に格納されている
+// C:\Users\220107\AppData\Roaming\npm
+
